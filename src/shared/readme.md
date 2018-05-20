@@ -1,0 +1,3 @@
+- js/get-js-index-js builds on start and otherwise caches itself
+- css/get-css-index-css does the same
+- shared/views/layout defines a shared html envelope

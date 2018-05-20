@@ -1,0 +1,8 @@
+{
+  "name": "buildstep-get-css-index-css",
+  "dependencies": {
+    "@architect/data": "^2.0.2",
+    "@architect/functions": "^1.8.2",
+    "cssmitten": "^1.1.3"
+  }
+}

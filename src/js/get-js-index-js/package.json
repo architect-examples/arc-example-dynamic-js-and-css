@@ -1,0 +1,9 @@
+{
+  "name": "buildstep-get-js-index-js",
+  "dependencies": {
+    "@architect/data": "^2.0.2",
+    "@architect/functions": "^1.8.2",
+    "browserify": "^16.2.2",
+    "tinyify": "^2.4.1"
+  }
+}
