@@ -13,7 +13,8 @@ module.exports = function layout(params) {
 </head>
 <body>
 ${params.body}
-<script src=${params._url('/js/index.js')}></script>
+<script type=module src=${params._url('/js/index.js')}></script>
+<script type=module src=${params._url('/js/test-module.mjs')}></script>
 </body>
 </html>
     `
